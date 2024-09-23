@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1675897926 source:c:\users\valer\onedrive\documentos\al201002\6to semestre\compiladores y traductores\compilador\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1675895258 source:c:\users\valer\onedrive\documentos\al201002\6to semestre\compiladores y traductores\compilador\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1675897869 source:c:\users\valer\onedrive\documentos\al201002\6to semestre\compiladores y traductores\compilador\parser_pdrc.c
+	<stdio.h>
+	<stdlib.h>
+
+1676066988 source:c:\users\karina caballero\downloads\compilador2\compilador\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1676068718 source:c:\users\karina caballero\downloads\compilador2\compilador\parser_pdrc.c
+	<stdio.h>
+	<stdlib.h>
+
+1676066988 source:c:\users\karina caballero\downloads\compilador2\compilador\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
